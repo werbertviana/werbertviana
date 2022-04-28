@@ -1,5 +1,4 @@
 ### Ooi, vem sempre aqui? Seja bem vindo eu sou Werbert Viana 👋
-
 - 🔭 Atualmente trabalho como full stack mas tenho um carinho maior pelo Front-End.
 - ⚡ Fun fact: Além do desenvolvimento música e ilustração são minhas paixões.
 <hr>
