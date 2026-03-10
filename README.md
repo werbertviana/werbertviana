@@ -1,8 +1,10 @@
-### Ooi, vem sempre aqui? Seja bem vindo eu sou Werbert Viana 👋
+# Olá! Eu sou Werbert Viana 👋
+### Desenvolvedor Mobile | React Native
+### Ooi, vem sempre aqui? Seja bem vindo 😄
 Desenvolvedor focado em **aplicações mobile com React Native**, com interesse em tecnologia aplicada à educação e experiências digitais interativas.
 
 Tenho experiência no desenvolvimento de interfaces móveis, design de experiências de usuário e criação de aplicações interativas utilizando JavaScript e React.
-- ⚡ Fun fact: Além do desenvolvimento música e ilustração são minhas paixões.
+- ⚡ Fun fact: além do desenvolvimento, música e ilustração são minhas paixões.
 ---
 
 ## 🚀 Tecnologias
