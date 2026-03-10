@@ -27,8 +27,7 @@ Aplicativo mobile gamificado para ensino de teoria musical.
 O projeto utiliza exercícios interativos e conceitos de gamificação para tornar o aprendizado de música mais acessível e envolvente.
 
 🔗 Repositório do projeto  
-https://github.com/werbertviana/batuta-integra
-
+https://github.com/werbertviana/batuta-frontend
 ---
 
 ## 🎨 Design
